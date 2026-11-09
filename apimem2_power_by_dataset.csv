@@ -1,0 +1,53 @@
+"effect","type","route","value","D1_N130","D2_N174"
+"aMA1","path","",0.3,0.944,0.986
+"aMA2","path","",0.3,0.946,0.983
+"aMP1","path","",0.15,0.462,0.581
+"aMP2","path","",0.15,0.433,0.54
+"aWA1","path","",0.2,0.65,0.777
+"aWA2","path","",0.2,0.633,0.775
+"aWP1","path","",0.1,0.228,0.304
+"aWP2","path","",0.1,0.236,0.284
+"bMA1","path","",0.3,0.933,0.988
+"bMA2","path","",0.3,0.947,0.98
+"bMP1","path","",0.15,0.478,0.536
+"bMP2","path","",0.15,0.433,0.548
+"bWA1","path","",0.2,0.714,0.805
+"bWA2","path","",0.2,0.71,0.817
+"bWP1","path","",0.1,0.244,0.298
+"bWP2","path","",0.1,0.243,0.297
+"cA1","path","",0.1,0.267,0.334
+"cA2","path","",0.1,0.267,0.329
+"cP1","path","",0.05,0.116,0.128
+"cP2","path","",0.05,0.107,0.139
+"M.AA1","simple indirect","X1->M1->Y1",0.09,0.866,0.973
+"M.PP1","simple indirect","X1->M2->Y1",0.0225,0.172,0.263
+"M.PA1","simple indirect","X2->M1->Y1",0.045,0.41,0.567
+"M.AP1","simple indirect","X2->M2->Y1",0.045,0.442,0.511
+"M.AA2","simple indirect","X2->M2->Y2",0.09,0.891,0.959
+"M.PP2","simple indirect","X2->M1->Y2",0.0225,0.174,0.277
+"M.PA2","simple indirect","X1->M2->Y2",0.045,0.399,0.511
+"M.AP2","simple indirect","X1->M1->Y2",0.045,0.4,0.531
+"W.AA1","simple indirect","X1->W1->Y1",0.04,0.42,0.589
+"W.PP1","simple indirect","X1->W2->Y1",0.01,0.042,0.056
+"W.PA1","simple indirect","X2->W1->Y1",0.02,0.124,0.204
+"W.AP1","simple indirect","X2->W2->Y1",0.02,0.132,0.207
+"W.AA2","simple indirect","X2->W2->Y2",0.04,0.418,0.602
+"W.PP2","simple indirect","X2->W1->Y2",0.01,0.038,0.066
+"W.PA2","simple indirect","X1->W2->Y2",0.02,0.131,0.203
+"W.AP2","simple indirect","X1->W1->Y2",0.02,0.128,0.195
+"M.TA1","total indirect via M","X1->Y1",0.1125,0.876,0.979
+"M.TP1","total indirect via M","X2->Y1",0.09,0.693,0.802
+"M.TA2","total indirect via M","X2->Y2",0.1125,0.884,0.967
+"M.TP2","total indirect via M","X1->Y2",0.09,0.635,0.789
+"W.TA1","total indirect via W","X1->Y1",0.05,0.418,0.592
+"W.TP1","total indirect via W","X2->Y1",0.04,0.26,0.394
+"W.TA2","total indirect via W","X2->Y2",0.05,0.416,0.622
+"W.TP2","total indirect via W","X1->Y2",0.04,0.258,0.372
+"TA1","total indirect","X1->Y1",0.1625,0.929,0.984
+"TP1","total indirect","X2->Y1",0.13,0.746,0.874
+"TA2","total indirect","X2->Y2",0.1625,0.931,0.98
+"TP2","total indirect","X1->Y2",0.13,0.73,0.865
+"D.TA1","contrast M - W","X1->Y1",0.0625,0.232,0.32
+"D.TP1","contrast M - W","X2->Y1",0.05,0.166,0.212
+"D.TA2","contrast M - W","X2->Y2",0.0625,0.24,0.293
+"D.TP2","contrast M - W","X1->Y2",0.05,0.146,0.193
